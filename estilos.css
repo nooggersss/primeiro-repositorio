@@ -27,9 +27,9 @@ em strong {
     color: #FF0000;
 }
 
-itens {
-    font-style: italic
-;}
+.itens {
+    font-style: italic;
+}
 
 .beneficios { 
     background: #FFFFFF;
